@@ -2,7 +2,7 @@
 
 # Weather Data Analysis using Pandas
 
-This project is a comprehensive analysis of a time-series weather dataset. The dataset contains per-hour information about weather conditions at a specific location, recording metrics such as Temperature, Dew Point Temperature, Relative Humidity, Wind Speed, Visibility, Pressure, and Weather Conditions. The analysis is performed using Python's Pandas library.
+This project is a comprehensive analysis of a time-series weather dataset. The dataset contains per-hour information about weather conditions at a specific location, recording metrics such as Temperature, Dew Point Temperature, Relative Humidity, Wind Speed, Visibility, Pressure, and Weather Conditions. The analysis is performed using Python's  Pandas library.
 
 ## Table of Contents
 
